@@ -1,1 +1,1 @@
-Goodbye, Mars!
+Hello, World!
